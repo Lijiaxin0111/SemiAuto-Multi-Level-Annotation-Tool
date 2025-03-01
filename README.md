@@ -33,20 +33,14 @@ git clone https://github.com/Lijiaxin0111/SemiAuto-Multi-Level-Annotation-Tool.g
 **Install with pip:**
 
 ```
-cd Semi-Auto-Multi-Level-Annotation-Tool
+cd SemiAuto-Multi-Level-Annotation-Tool
 
 pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 (If you encounter the File "setup.py" not found error, upgrade your pip with pip install --upgrade pip)
-
-**Download the pretrained models:**
-
-```
-python cutie/utils/download_models.py
-```
 
 ## Usage
 
