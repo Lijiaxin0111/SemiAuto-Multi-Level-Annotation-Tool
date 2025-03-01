@@ -11,9 +11,9 @@ This repo is the office implement of a Semi-Auto Multi-Level Annotation Tool use
 
 - We release the Annotation Tool.
 
-- [M$^3$-VOS](https://zixuan-chen.github.io/M-cube-VOS.github.io/) get accepted in CVPR 2025.
+- [M-cube-VOS](https://zixuan-chen.github.io/M-cube-VOS.github.io/) get accepted in CVPR 2025.
 
-- We release the dataset  M$^3$-VOS in [baidu disk](https://pan.baidu.com/s/1iNh-ndhfVYupQhDHzZx5VQ?pwd=mvos).
+- We release the dataset  M-cube-VOS in [baidu disk](https://pan.baidu.com/s/1iNh-ndhfVYupQhDHzZx5VQ?pwd=mvos).
 
   
 # Installation
