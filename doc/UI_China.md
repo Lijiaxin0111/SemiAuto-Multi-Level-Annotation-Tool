@@ -88,7 +88,7 @@ tip: 自动化标注工具的能力有限，往往对于轮廓不清晰，或者
   - 然后点击键`T` ,退出色差蒙版模式
   - 然后再进入PAINT_Mask模式 或者 Erase_MASK模式，对色差蒙版的Mask进行精修
 
-- 可视化mask颜色调整功能： 点击界面左下角靠**右边的颜色块**，可以弹出颜色选择器，选择颜色后，点击OK即可![viz_mask_adjust_UI](..\fig\viz_mask_adjust_UI.png)
+- 可视化mask颜色调整功能： 点击界面左下角靠**右边的颜色块**，可以弹出颜色选择器，选择颜色后，点击OK即可![viz_mask_adjust_UI](../fig/viz_mask_adjust_UI.png)
 
 ### FQA:
 
