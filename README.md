@@ -84,16 +84,16 @@ Tips: If you are running this on a remote server, you can use VNC or X11 forward
 
 ## References
 
-- This Semi-Auto-Multi-Level-Annotation-Tool is based on [Cutie GUI tool]( [https://raw.githubusercontent.com/hkchengrex/Cutie](https://raw.githubusercontent.com/hkchengrex/Cutie/main/docs/sources.txt)), [IVS](https://github.com/seoungwugoh/ivs-demo), [MiVOS](https://github.com/hkchengrex/MiVOS), and [XMem](https://github.com/hkchengrex/XMem).
+- This Semi-Auto-Multi-Level-Annotation-Tool is based on [Cutie GUI tool](https://raw.githubusercontent.com/hkchengrex/Cutie), [IVS](https://github.com/seoungwugoh/ivs-demo), [MiVOS](https://github.com/hkchengrex/MiVOS), and [XMem](https://github.com/hkchengrex/XMem).
 
   - The Cutie GUI tools uses [RITM](https://github.com/SamsungLabs/ritm_interactive_segmentation) for interactive image segmentation. This repository also contains a redistribution of their code in `gui/ritm`. That part of code follows RITM's license.
 
   - For automatic video segmentation/integration with external detectors, see [DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA).
 
-  -  [Cutie GUI tool]( [https://raw.githubusercontent.com/hkchengrex/Cutie](https://raw.githubusercontent.com/hkchengrex/Cutie/main/docs/sources.txt)) used [ProPainter](https://github.com/sczhou/ProPainter) in the video inpainting demo.
+  -  [Cutie GUI tool](https://raw.githubusercontent.com/hkchengrex/Cutie) used [ProPainter](https://github.com/sczhou/ProPainter) in the video inpainting demo.
 
 
-- Thanks to [Cutie]( [https://raw.githubusercontent.com/hkchengrex/Cutie](https://raw.githubusercontent.com/hkchengrex/Cutie/main/docs/sources.txt)), [RTIM](https://github.com/SamsungLabs/ritm_interactive_segmentation), [XMem++](https://github.com/max810/XMem2), [IVS](https://github.com/seoungwugoh/ivs-demo), [MiVOS](https://github.com/hkchengrex/MiVOS), and [XMem](https://github.com/hkchengrex/XMem) for making this possible.
+- Thanks to [Cutie](https://raw.githubusercontent.com/hkchengrex/Cutie), [RTIM](https://github.com/SamsungLabs/ritm_interactive_segmentation), [XMem++](https://github.com/max810/XMem2), [IVS](https://github.com/seoungwugoh/ivs-demo), [MiVOS](https://github.com/hkchengrex/MiVOS), and [XMem](https://github.com/hkchengrex/XMem) for making this possible.
 
 
 ## License
