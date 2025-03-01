@@ -30,6 +30,13 @@ Our test environment is :
 git clone https://github.com/Lijiaxin0111/SemiAuto-Multi-Level-Annotation-Tool.git
 ```
 
+**Create Environment:**
+
+```
+conda create -n SemiAuto_AnnoateTool python=3.8
+conda activate SemiAuto_AnnoateTool
+```
+
 **Install with pip:**
 
 ```
