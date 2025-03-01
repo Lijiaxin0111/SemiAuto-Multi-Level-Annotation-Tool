@@ -78,7 +78,7 @@ The annotation interface will then be ready.
 
 - **Mask Visualization Color Adjustment:**
 
-  ![viz_mask_adjust_UI](.\fig\viz_mask_adjust_UI.png)
+  ![viz_mask_adjust_UI](..\fig\viz_mask_adjust_UI.png)
 
   - Click the **color block on the right side** of the lower-left UI panel to open the color picker. Select a color and click OK to apply.
 
