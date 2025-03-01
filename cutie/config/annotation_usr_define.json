@@ -1,0 +1,102 @@
+{
+    "rigid body-rigid body": [
+        "split",
+        "new_label_1",
+        "None",
+        "separate",
+        "merge"
+    ],
+    "non viscous-non viscous": [
+        "split",
+        "flow",
+        "split",
+        "split",
+        "flow",
+        "mix",
+        "drip",
+        "paint",
+        "paint"
+    ],
+    "viscous-viscous": [
+        "paint",
+        "paint",
+        "paint",
+        "paint",
+        "",
+        ""
+    ],
+    "-": [
+        "solidify",
+        "deposition",
+        "vaporize",
+        "deposition",
+        "vaporize"
+    ],
+    "non viscous-rigid body": [
+        "deposition",
+        "deposition"
+    ],
+    "flexible body-rigid body": [
+        "solidify"
+    ],
+    "solid-liquid": [
+        "",
+        "melt"
+    ],
+    "non viscous-particulate": [
+        ""
+    ],
+    "non viscous-aerosol/gas": [
+        "solidify",
+        "solidify"
+    ],
+    "rigid body-viscous": [
+        "flow out",
+        "flow out"
+    ],
+    "flexible body-flexible body": [
+        "break",
+        "break",
+        "None",
+        "None",
+        "separate",
+        "separate",
+        "twist",
+        "twist",
+        "stretch"
+    ],
+    "rigid body-flexible body": [
+        "None",
+        "compress\n"
+    ],
+    "non_particulate-non_particulate": [
+        "merge"
+    ],
+    "rigid body-particulate": [
+        "crush",
+        "split"
+    ],
+    "particulate-particulate": [
+        "splash",
+        "None",
+        "split",
+        "split"
+    ],
+    "non viscous-viscous": [
+        "flow",
+        "converge"
+    ],
+    "flexible body-particulate": [
+        "split"
+    ],
+    "liquid-solid": [
+        "s",
+        "separate_out"
+    ],
+    "rigid body-non viscous": [
+        "dissolve"
+    ],
+    "rigid body-aerosol/gas": [
+        "vaporize"
+    ]
+}
