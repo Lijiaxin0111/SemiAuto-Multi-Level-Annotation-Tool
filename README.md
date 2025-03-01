@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux)](https://www.linux.org/)  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/torch-2.3.1%2Bcu118-orange?logo=pytorch)](https://pytorch.org/) [![arXiv](https://img.shields.io/badge/arXiv-2412.13803-b31b1b?logo=arxiv)](https://arxiv.org/html/2412.13803v2)  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-This repo is the office implement of a Semi-Auto Multi-Level Annotation Tool used in [M-cube-VOS](https://zixuan-chen.github.io/M-cube-VOS.github.io/). It allows for user to annotate the mask of target objects efficiently. The data collection pipeline is as follow:
+This repo is the office implement of the Semi-Auto Multi-Level Annotation Tool used in [M-cube-VOS](https://zixuan-chen.github.io/M-cube-VOS.github.io/). It allows for user to annotate the mask of target objects efficiently. In [M-cube-VOS](https://zixuan-chen.github.io/M-cube-VOS.github.io/), The pipeline of data collection is as follow:
 
  ![final_dataset_pipeline](./fig/final_dataset_pipeline.jpg)
 
