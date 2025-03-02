@@ -20,6 +20,8 @@ This repo is the office implement of the Semi-Auto Multi-Level Annotation Tool u
 
 Our test environment is :
 
+- `Ubuntu 20.04.6 LTS`
+
 - `Python 3.8.19`
 
 - `torch 2.3.1+cu118` , `torchaudio 2.3.1+cu118`, `torchvision 0.18.1+cu118`
