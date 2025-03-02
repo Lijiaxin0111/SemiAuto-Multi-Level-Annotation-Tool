@@ -26,10 +26,12 @@ Our test environment is :
 
 - `torch 2.3.1+cu118` , `torchaudio 2.3.1+cu118`, `torchvision 0.18.1+cu118`
 
+tip: The machine running this tool is expected to need  GeForce GTX and RTX.
+
 **Clone our repository:**
 
 ```
-git clone https://github.com/Lijiaxin0111/SemiAuto-Multi-Level-Annotation-Tool.git   --recursive
+git clone https://github.com/Lijiaxin0111/SemiAuto-Multi-Level-Annotation-Tool.git   
 ```
 
 **Create Environment:**
@@ -47,8 +49,6 @@ cd SemiAuto-Multi-Level-Annotation-Tool
 pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
 
 pip install -r requirements.txt
-
-pip install -e ./thirdparty/py-thin-plate-spline
 ```
 
 (If you encounter the File "setup.py" not found error, upgrade your pip with pip install --upgrade pip)
