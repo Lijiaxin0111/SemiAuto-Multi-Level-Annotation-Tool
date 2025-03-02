@@ -1,12 +1,11 @@
 cython
 gitpython>=3.1
-git+https://github.com/cheind/py-thin-plate-spline
 hickle>=5.0
 tensorboard>=2.11
-numpy>=1.21
+numpy==1.24.4
 Pillow>=9.5
 opencv-python>=4.8
-scipy>=1.7
+scipy==1.10.1
 pycocotools>=2.0.7
 tqdm>=4.66.1
 gradio>=3.34
@@ -21,3 +20,4 @@ easydict
 av>=0.5.2
 requests
 pyqtdarktheme
+omegaconf

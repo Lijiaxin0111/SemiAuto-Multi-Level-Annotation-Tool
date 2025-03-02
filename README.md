@@ -29,14 +29,14 @@ Our test environment is :
 **Clone our repository:**
 
 ```
-git clone https://github.com/Lijiaxin0111/SemiAuto-Multi-Level-Annotation-Tool.git
+git clone https://github.com/Lijiaxin0111/SemiAuto-Multi-Level-Annotation-Tool.git   --recursive
 ```
 
 **Create Environment:**
 
 ```
-conda create -n SemiAuto_AnnoateTool python=3.8
-conda activate SemiAuto_AnnoateTool
+conda create -n SemiAuto_AnnotateTool python=3.8
+conda activate SemiAuto_AnnotateTool
 ```
 
 **Install with pip:**
@@ -47,6 +47,8 @@ cd SemiAuto-Multi-Level-Annotation-Tool
 pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
 
 pip install -r requirements.txt
+
+pip install -e ./thirdparty/py-thin-plate-spline
 ```
 
 (If you encounter the File "setup.py" not found error, upgrade your pip with pip install --upgrade pip)
@@ -55,11 +57,11 @@ pip install -r requirements.txt
 
 ### Quick Start
 
+Tips: If you are running this on a remote server, you can use VNC or X11 forwarding.
+
 ```
 python interactive_demo.py  --video ./demo_data/make_glass.mp4  --workspace ./workspace/make_glass --num_objects 1 --gpu 0
 ```
-
-Tips: If you are running this on a remote server, you can use VNC or X11 forwarding.
 
 ### More Usage
 
