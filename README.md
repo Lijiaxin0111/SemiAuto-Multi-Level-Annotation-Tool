@@ -78,14 +78,12 @@ python interactive_demo.py  --video ./demo_data/make_glass.mp4  --workspace ./wo
 ## Citation
 
 ```
-@misc{chen2024m3vosmultiphasemultitransitionmultiscenery,
-      title={M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation}, 
-      author={Zixuan Chen and Jiaxin Li and Liming Tan and Yejie Guo and Junxuan Liang and Cewu Lu and Yong-Lu Li},
-      year={2024},
-      eprint={2412.13803},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.13803}, 
+@InProceedings{chen2024m3vos_2025_CVPR,
+    author    = {Zixuan Chen and Jiaxin Li and Liming Tan and Yejie Guo and Junxuan Liang and Cewu Lu and Yong-Lu Li},
+    title     = {M$^3$-VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025}
 }
 ```
 
