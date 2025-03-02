@@ -53,6 +53,8 @@ pip install -r requirements.txt
 
 (If you encounter the File "setup.py" not found error, upgrade your pip with pip install --upgrade pip)
 
+(If you encounter "error: Microsoft Visual C++ 14.0 or greater is required.", get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+
 ## Usage
 
 ### Quick Start
